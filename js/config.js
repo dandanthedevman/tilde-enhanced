@@ -83,12 +83,12 @@ const CONFIG = {
     },
     {
       category: 'Programming',
-      name: 'HackerNews',
-      key: 'h',
-      url: 'https://news.ycombinator.com/',
+      name: 'Gatsby Develop',
+      key: 'gd',
+      url: 'http://localhost:8000/',
       search: '/search?stories[query]={}',
       color: 'linear-gradient(135deg, #FF6600, #DC5901)',
-      icon: 'hackernews',
+//       icon: 'hackernews',
       quickLaunch: true,
     },
     {
